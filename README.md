@@ -109,4 +109,4 @@ They are not needed for most projects and can be ignored in Git by adding these 
 ---
 
 
-Testing push with new token
+Testing push with new token from local R
